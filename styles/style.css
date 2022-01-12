@@ -62,12 +62,13 @@ hr{
     grid-row-gap: 26px;
     margin-top: 31px;
     
+    
 }
 
 .blog{
     display: flex;
     margin-right: 46px;
-
+    align-items: center;
 }
 .blog .thumbnail img{
     width: 177px;
